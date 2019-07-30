@@ -1,1 +1,0 @@
-# ground-bnb-rails
